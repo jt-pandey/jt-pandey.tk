@@ -40,9 +40,9 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
 
 [params]
-    since = 2022
+    since = 2004
     author = "Jatin Pandey"               # Author's name
-    subtitle = "A Portfolio made using Hugo"       # Subtitle
+    subtitle = "A Simple Portfolio made using Hugo"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
@@ -66,13 +66,13 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    GitHub = "xxxx"
+    GitHub = "jt-pandey"
     #Linkedin = "xxxx"
     #Twitter = "xxxx"
     Instagram = "jatinpandeyyy"
-    Email   = "jatinpandey212@gmail.com"
-    Facebook = "xxxx"
-    Telegram = ""
+    Email   = "me@jt-pandey.tk"
+    #Facebook = "xxxx"
+    Telegram = "jtpndy"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
@@ -108,8 +108,8 @@ disqusShortname = "yourdiscussshortname"
     #Twitch = "xxxx"
     #Strava = "xxxx"
     #Skype = "xxxx"
-    #Whatsapp = "xxxx"
-    #Zhihu = "xxxx"
+    Whatsapp = "+918736022102"
+    Codeforces = "s4m_sepi0l"
     #Douban = "xxxx"
     #Angellist = "xxxx"
     #Slidershare = "xxxx"
