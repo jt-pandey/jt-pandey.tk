@@ -24,15 +24,15 @@ disqusShortname = "yourdiscussshortname"
  posts = "/:year/:filename/"
 
 [menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 1
+  #[[menu.main]]
+    #name = "Blog"
+    #url = "/posts/"
+    #weight = 1
 
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
+  #[[menu.main]]
+    #name = "Categories"
+    #url = "/categories/"
+    #weight = 3
 
   [[menu.main]]
     name = "About"
@@ -153,7 +153,7 @@ copyright = "A personal portfolio"
 
   [params.logo]
     url = "logo.png"
-    width = 127
+    width = 127	
     height = 40
 
   [params.image]
